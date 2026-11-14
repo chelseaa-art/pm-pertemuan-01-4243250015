@@ -67,3 +67,12 @@ Kesimpulannya, setiap pendekatan memiliki kelebihan masing-masing. Pemilihan met
 
 Dalam pengerjaan tugas ini, saya menggunakan ChatGPT sebagai alat bantu untuk memahami konsep Flutter, mengatasi kendala teknis, dan membantu penyusunan dokumentasi. Seluruh proses implementasi, pengujian, dan pemeriksaan hasil aplikasi dilakukan serta ditinjau kembali oleh saya.
 
+## 8. Pengujian Aplikasi
+
+Pengujian dilakukan menggunakan perintah `flutter test`.
+
+Hasil pengujian menunjukkan bahwa seluruh pengujian berhasil dengan pesan:
+
+`All tests passed!`
+
+Dengan demikian, aplikasi berhasil melewati pengujian widget untuk memastikan teks "Hello, World!" ditampilkan.
